@@ -1,0 +1,4 @@
+Tutorial:
+https://www.datacamp.com/tutorial/realtime-api-openai
+
+Working with WebSockets requires us to program in an event-driven way. Messages are sent back and forth on the communication channel, and we cannot control when these messages will be delivered or received.
